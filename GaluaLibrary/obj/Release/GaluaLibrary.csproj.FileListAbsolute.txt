@@ -1,0 +1,6 @@
+C:\Users\ivano\source\repos\GaluaLibrary\bin\Release\GaluaLibrary.dll
+C:\Users\ivano\source\repos\GaluaLibrary\bin\Release\GaluaLibrary.pdb
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Release\GaluaLibrary.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Release\GaluaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Release\GaluaLibrary.dll
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Release\GaluaLibrary.pdb

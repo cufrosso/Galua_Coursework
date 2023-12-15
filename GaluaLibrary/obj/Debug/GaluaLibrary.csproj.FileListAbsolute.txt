@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\GaluaLibrary\bin\Debug\GaluaLibrary.dll
+C:\Users\admin\source\repos\GaluaLibrary\bin\Debug\GaluaLibrary.pdb
+C:\Users\admin\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.dll
+C:\Users\admin\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.pdb
+C:\Users\ivano\source\repos\GaluaLibrary\bin\Debug\GaluaLibrary.dll
+C:\Users\ivano\source\repos\GaluaLibrary\bin\Debug\GaluaLibrary.pdb
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.dll
+C:\Users\ivano\source\repos\GaluaLibrary\obj\Debug\GaluaLibrary.pdb
